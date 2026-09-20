@@ -39,22 +39,17 @@ Visualización de las interacciones, transiciones entre vistas y estados de comp
 
 ![Flujo de Prototipado](./screenshots/user-flow.png)
 
----
+**Menú desplegable modal**, uno de los componentes interactivos del prototipo:
 
+<p align="center">
+  <img src="./screenshots/nexus-tablet.png" width="280" alt="Menú modal desplegable con las categorías Home, Móviles, Computación y Electrodomésticos">
+</p>
+
+---
 
 ## 📲 Vistas Mobile y Tablet
 
-### Menú de navegación interactivo
-
-Modal desplegable con las categorías principales, accesible desde la barra superior en todas las resoluciones:
-
-<p align="center">
-  <img src="./screenshots/menu-interactivo.png" width="300" alt="Menú modal desplegable con las categorías Home, Móviles, Computación y Electrodomésticos">
-</p>
-
-### Recorridos completos de pantalla
-
-Capturas del scroll completo de cada vista. Están plegadas para no cortar la lectura — hacé clic en cada una para desplegarla:
+Capturas del recorrido completo de cada resolución. Están plegadas para no cortar la lectura — hacé clic en cada una para desplegarla:
 
 <details>
 <summary>📱 <b>Mobile — Home</b></summary>
@@ -70,6 +65,7 @@ Capturas del scroll completo de cada vista. Están plegadas para no cortar la le
 <summary>📲 <b>Tablet — Vista completa</b></summary>
 <p align="center"><img src="./screenshots/tablet.png" width="420" alt="Recorrido completo de la vista en tablet"></p>
 </details>
+
 ---
 
 ## 🛠️ Herramientas utilizadas
