@@ -43,10 +43,34 @@ Visualización de las interacciones, transiciones entre vistas y estados de comp
 
 ## 📲 Vistas Mobile y Tablet
 
-| Mobile Home | Mobile Celulares | Tablet | Menú Interactivo |
-| :---: | :---: | :---: | :---: |
-| ![Mobile Home](./screenshots/mobile-home.png) | ![Mobile Celular](./screenshots/mobile-celular.png) | ![Tablet](./screenshots/tablet.png) | ![Menu](./screenshots/nexus-tablet.png) |
+## 📲 Vistas Mobile y Tablet
 
+### Menú de navegación interactivo
+
+Modal desplegable con las categorías principales, accesible desde la barra superior en todas las resoluciones:
+
+<p align="center">
+  <img src="./screenshots/menu-interactivo.png" width="300" alt="Menú modal desplegable con las categorías Home, Móviles, Computación y Electrodomésticos">
+</p>
+
+### Recorridos completos de pantalla
+
+Capturas del scroll completo de cada vista. Están plegadas para no cortar la lectura — hacé clic en cada una para desplegarla:
+
+<details>
+<summary>📱 <b>Mobile — Home</b></summary>
+<p align="center"><img src="./screenshots/mobile-home.png" width="300" alt="Recorrido completo del Home en versión mobile"></p>
+</details>
+
+<details>
+<summary>📱 <b>Mobile — Catálogo de Celulares</b></summary>
+<p align="center"><img src="./screenshots/mobile-celular.png" width="300" alt="Recorrido completo del catálogo de celulares en versión mobile"></p>
+</details>
+
+<details>
+<summary>📲 <b>Tablet — Vista completa</b></summary>
+<p align="center"><img src="./screenshots/tablet.png" width="420" alt="Recorrido completo de la vista en tablet"></p>
+</details>
 ---
 
 ## 🛠️ Herramientas utilizadas
