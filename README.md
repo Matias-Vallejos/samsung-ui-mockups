@@ -45,7 +45,7 @@ Visualización de las interacciones, transiciones entre vistas y estados de comp
 
 | Mobile Home | Mobile Celulares | Tablet | Menú Interactivo |
 | :---: | :---: | :---: | :---: |
-| ![Mobile Home](./screenshots/mobile-home.png) | ![Mobile Celular](./screenshots/mobile-celular.png) | ![Tablet](./screenshots/tablet.png) | ![Menu](./screenshots/nexus.png) |
+| ![Mobile Home](./screenshots/mobile-home.png) | ![Mobile Celular](./screenshots/mobile-celular.png) | ![Tablet](./screenshots/tablet.png) | ![Menu](./screenshots/nexus-tablet.png) |
 
 ---
 
