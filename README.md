@@ -42,7 +42,7 @@ Visualización de las interacciones, transiciones entre vistas y estados de comp
 **Menú desplegable modal**, uno de los componentes interactivos del prototipo:
 
 <p align="center">
-  <img src="./screenshots/nexus-tablet.png" width="280" alt="Menú modal desplegable con las categorías Home, Móviles, Computación y Electrodomésticos">
+  <img src="./screenshots/menu-interactivo.png" width="280" alt="Menú modal desplegable con las categorías Home, Móviles, Computación y Electrodomésticos">
 </p>
 
 ---
