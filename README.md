@@ -41,7 +41,6 @@ Visualización de las interacciones, transiciones entre vistas y estados de comp
 
 ---
 
-## 📲 Vistas Mobile y Tablet
 
 ## 📲 Vistas Mobile y Tablet
 
