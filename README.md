@@ -11,7 +11,7 @@ Podés probar las interacciones y navegar el diseño completo directamente en Fi
 
 ## 📱 Mockups y Presentación en Dispositivos
 
-![Mockups en contexto real](./screenshots/mockups.png)
+![Mockups en contexto real](./screenshots/mockups.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ Visualización de las interacciones, transiciones entre vistas y estados de comp
 
 | Mobile Home | Mobile Celulares | Tablet | Menú Interactivo |
 | :---: | :---: | :---: | :---: |
-| ![Mobile Home](./screenshots/mobile-home.png) | ![Mobile Celular](./screenshots/mobile-celular.png) | ![Tablet](./screenshots/tablet.png) | ![Menu](./screenshots/menu-interactivo.png) |
+| ![Mobile Home](./screenshots/mobile-home.png) | ![Mobile Celular](./screenshots/mobile-celular.png) | ![Tablet](./screenshots/tablet.png) | ![Menu](./screenshots/nexus.png) |
 
 ---
 
