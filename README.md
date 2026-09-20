@@ -7,7 +7,7 @@ Proyecto de diseño de interfaces y prototipado interactivo desarrollado en **Fi
 
 Podés navegar el diseño completo y probar las transiciones entre pantallas:
 
-* 🖥️ **[Prototipo — Desktop](https://www.figma.com/proto/omKtMznmTsf7DRMGa87Of6/Matias-Vallejos-Final-Comunicacion-Visual?node-id=10-3&starting-point-node-id=10%3A3)**
+* 🖥️ **[Prototipo — Desktop](https://www.figma.com/proto/omKtMznmTsf7DRMGa87Of6/Matias-Vallejos-Final-Comunicacion-Visual?node-id=10-3&starting-point-node-id=10%3A3&scaling=scale-down-width)**
 * 📱 **[Prototipo — Mobile](https://www.figma.com/proto/omKtMznmTsf7DRMGa87Of6/Matias-Vallejos-Final-Comunicacion-Visual?node-id=184-2554&starting-point-node-id=184%3A2554)**
 * 📲 **[Prototipo — Tablet](https://www.figma.com/proto/omKtMznmTsf7DRMGa87Of6/Matias-Vallejos-Final-Comunicacion-Visual?node-id=256-636&starting-point-node-id=256%3A636)**
 * 🎨 **[Ver el archivo completo en Figma](https://www.figma.com/design/omKtMznmTsf7DRMGa87Of6/Matias-Vallejos-Final-Comunicacion-Visual)** — componentes, variantes y mesa de trabajo.
